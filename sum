@@ -1,0 +1,4 @@
+print "hello"
+print a=10
+print b=20
+print "a+b"
